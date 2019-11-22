@@ -3,10 +3,12 @@ import itertools
 import math
 import string
 
-s = int(sys.stdin.readline())
-if s%2==1:
-    print("Either")
-elif s%4==0:
-    print("Even")
-else:
-    print("Odd")
+s,t = [int(x) for x in sys.stdin.readline().split()]
+dset = set()
+data = sys.stdin.readlines()
+for lid in range(len(data)):
+    dset.add(data[lid].strip('\n'))
+    if len(dset)==s:
+        print(lid+1)
+        exit()
+print("paradox avoided")

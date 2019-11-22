@@ -45,7 +45,6 @@ def make_readme(problems):
     '''print the readme'''
     print("# OpenKattis")
     print("\tMy solutions to the problems on https://open.kattis.com/.\n")
-    print("\tPlease do not steal any of the solutions, for reference use only.\n")
     print("[&copy;](https://github.com/mvr320/Kattis/blob/master/license.txt) MCJ Vasseur")
     print("## Summary")
 

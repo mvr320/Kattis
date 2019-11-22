@@ -3,8 +3,9 @@
 
 [&copy;](https://github.com/mvr320/Kattis/blob/master/license.txt) MCJ Vasseur
 ## Summary
-#### Problems solved: 4 - [Total: 8.8, Average: 1.95]
-###### Solved in Python: 4 (100.00%) - [Total: 7.8, Average: 1.95]
+#### Problems solved: 7 - [Total: 12.4, Average: 1.63]
+###### Solved in Python: 6 (85.71%) - [Total: 10.2, Average: 1.70]
+###### Solved in Haskell: 1 (14.29%) - [Total: 1.2, Average: 1.20]
 #### Top 3 highest difficulty solved
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
@@ -16,6 +17,9 @@
 #### Solved Problems:
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
+| [Hello World! ](https://open.kattis.com/problems/hello) | Haskell | 1.2 |
+| [Hissing Microphone ](https://open.kattis.com/problems/hissingmicrophone) | Python | 1.2 |
+| [Stuck In A Time Loop ](https://open.kattis.com/problems/timeloop) | Python | 1.2 |
 | [Volim ](https://open.kattis.com/problems/volim) | Python | 1.6 |
 | [WERTYU ](https://open.kattis.com/problems/wertyu) | Python | 2.9 |
 | [What does the fox say? ](https://open.kattis.com/problems/whatdoesthefoxsay) | Python | 1.9 |

@@ -3,11 +3,11 @@
 
 [&copy;](https://github.com/mvr320/Kattis/blob/master/license.txt) MCJ Vasseur
 ## Summary
-#### Problems solved: 116 - [Total: 183.6, Average: 1.57]
-###### Solved in Python: 92 (79.31%) - [Total: 146.6, Average: 1.59]
-###### Solved in Java: 10 (8.62%) - [Total: 16.0, Average: 1.60]
-###### Solved in C++: 9 (7.76%) - [Total: 13.1, Average: 1.46]
-###### Solved in Haskell: 5 (4.31%) - [Total: 6.9, Average: 1.38]
+#### Problems solved: 120 - [Total: 190.0, Average: 1.57]
+###### Solved in Python: 96 (80.00%) - [Total: 153.0, Average: 1.59]
+###### Solved in Java: 10 (8.33%) - [Total: 16.0, Average: 1.60]
+###### Solved in C++: 9 (7.50%) - [Total: 13.1, Average: 1.46]
+###### Solved in Haskell: 5 (4.17%) - [Total: 6.9, Average: 1.38]
 #### Top 3 highest difficulty solved
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
@@ -36,8 +36,10 @@
 | [Beehives ](https://open.kattis.com/problems/beehives) | Python | 2.1 |
 | [Bela ](https://open.kattis.com/problems/bela) | Python | 1.3 |
 | [Bijele ](https://open.kattis.com/problems/bijele) | Java | 1.3 |
+| [Boat Parts ](https://open.kattis.com/problems/boatparts) | Python | 1.5 |
 | [Cetiri ](https://open.kattis.com/problems/cetiri) | Python | 1.8 |
 | [Cetvrta ](https://open.kattis.com/problems/cetvrta) | Java | 1.4 |
+| [Chanukah Challenge ](https://open.kattis.com/problems/chanukah) | Python | 1.5 |
 | [Cold-puter Science ](https://open.kattis.com/problems/cold) | Java | 1.3 |
 | [Cryptographer's Conundrum ](https://open.kattis.com/problems/conundrum) | Python | 1.3 |
 | [Cudoviste ](https://open.kattis.com/problems/cudoviste) | Python | 1.4 |
@@ -56,6 +58,7 @@
 | [Filip ](https://open.kattis.com/problems/filip) | Python | 1.3 |
 | [FizzBuzz ](https://open.kattis.com/problems/fizzbuzz) | C++ | 1.3 |
 | [Flow Layout ](https://open.kattis.com/problems/flowlayout) | Python | 2.1 |
+| [Friday the 13th ](https://open.kattis.com/problems/friday) | Python | 1.9 |
 | [Grass Seed Inc. ](https://open.kattis.com/problems/grassseed) | Python | 1.3 |
 | [Hanging Out on the Terrace ](https://open.kattis.com/problems/hangingout) | Python | 1.3 |
 | [Harshad Numbers ](https://open.kattis.com/problems/harshadnumbers) | Python | 1.4 |
@@ -113,6 +116,7 @@
 | [Soda Slurper ](https://open.kattis.com/problems/sodaslurper) | Python | 1.6 |
 | [Sok ](https://open.kattis.com/problems/sok) | Python | 1.7 |
 | [Solving for Carrots ](https://open.kattis.com/problems/carrots) | Haskell | 1.3 |
+| [Some Sum ](https://open.kattis.com/problems/somesum) | Python | 1.5 |
 | [Spavanac ](https://open.kattis.com/problems/spavanac) | Java | 1.4 |
 | [Speed Limit ](https://open.kattis.com/problems/speedlimit) | Java | 1.3 |
 | [Stacking Cups ](https://open.kattis.com/problems/cups) | Python | 1.5 |
@@ -139,9 +143,7 @@
 #### Unsolved Problems:
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
-| [Boat Parts ](https://open.kattis.com/problems/boatparts) | Python | 1.5 |
 | [Riječi ](https://open.kattis.com/problems/rijeci) | Python | 1.5 |
-| [Some Sum ](https://open.kattis.com/problems/somesum) | Python | 1.5 |
 | [Quick Brown Fox ](https://open.kattis.com/problems/quickbrownfox) | C++ | 1.6 |
 | [Synchronizing Lists ](https://open.kattis.com/problems/synchronizinglists) | Python | 1.6 |
 | [Server ](https://open.kattis.com/problems/server) | Python | 1.8 |

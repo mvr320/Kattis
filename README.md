@@ -3,11 +3,11 @@
 
 [&copy;](https://github.com/mvr320/Kattis/blob/master/license.txt) MCJ Vasseur
 ## Summary
-#### Problems solved: 86 - [Total: 139.9, Average: 1.62]
-###### Solved in Python: 83 (96.51%) - [Total: 134.9, Average: 1.63]
-###### Solved in Java: 1 (1.16%) - [Total: 1.3, Average: 1.30]
-###### Solved in Haskell: 1 (1.16%) - [Total: 1.2, Average: 1.20]
-###### Solved in C++: 1 (1.16%) - [Total: 1.5, Average: 1.50]
+#### Problems solved: 116 - [Total: 183.6, Average: 1.57]
+###### Solved in Python: 92 (79.31%) - [Total: 146.6, Average: 1.59]
+###### Solved in Java: 10 (8.62%) - [Total: 16.0, Average: 1.60]
+###### Solved in C++: 9 (7.76%) - [Total: 13.1, Average: 1.46]
+###### Solved in Haskell: 5 (4.31%) - [Total: 6.9, Average: 1.38]
 #### Top 3 highest difficulty solved
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
@@ -19,9 +19,13 @@
 #### Solved Problems:
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
+| [A Different Problem ](https://open.kattis.com/problems/different) | Java | 2.3 |
+| [A New Alphabet ](https://open.kattis.com/problems/anewalphabet) | Java | 1.8 |
+| [A Real Challenge ](https://open.kattis.com/problems/areal) | C++ | 1.6 |
 | [ACM Contest Scoring ](https://open.kattis.com/problems/acm) | Python | 1.6 |
 | [Aaah! ](https://open.kattis.com/problems/aaah) | C++ | 1.5 |
 | [Alphabet Spam ](https://open.kattis.com/problems/alphabetspam) | Python | 1.3 |
+| [Another Candies ](https://open.kattis.com/problems/anothercandies) | Java | 2.6 |
 | [Apaxiaaaaaaaaaaaans! ](https://open.kattis.com/problems/apaxiaaans) | Python | 1.4 |
 | [Autori ](https://open.kattis.com/problems/autori) | Python | 1.2 |
 | [Avion ](https://open.kattis.com/problems/avion) | Python | 1.4 |
@@ -30,19 +34,29 @@
 | [Basketball One-on-One ](https://open.kattis.com/problems/basketballoneonone) | Python | 1.4 |
 | [Batter Up ](https://open.kattis.com/problems/batterup) | Python | 1.3 |
 | [Beehives ](https://open.kattis.com/problems/beehives) | Python | 2.1 |
+| [Bela ](https://open.kattis.com/problems/bela) | Python | 1.3 |
+| [Bijele ](https://open.kattis.com/problems/bijele) | Java | 1.3 |
 | [Cetiri ](https://open.kattis.com/problems/cetiri) | Python | 1.8 |
+| [Cetvrta ](https://open.kattis.com/problems/cetvrta) | Java | 1.4 |
+| [Cold-puter Science ](https://open.kattis.com/problems/cold) | Java | 1.3 |
+| [Cryptographer's Conundrum ](https://open.kattis.com/problems/conundrum) | Python | 1.3 |
 | [Cudoviste ](https://open.kattis.com/problems/cudoviste) | Python | 1.4 |
 | [Das Blinkenlights ](https://open.kattis.com/problems/dasblinkenlights) | Python | 1.8 |
 | [Datum ](https://open.kattis.com/problems/datum) | Python | 1.3 |
 | [Death Knight Hero ](https://open.kattis.com/problems/deathknight) | Python | 1.6 |
 | [Detailed Differences ](https://open.kattis.com/problems/detaileddifferences) | Python | 1.3 |
+| [Dice Cup ](https://open.kattis.com/problems/dicecup) | Python | 1.3 |
 | [Dice Game ](https://open.kattis.com/problems/dicegame) | Python | 1.5 |
 | [Different Distances ](https://open.kattis.com/problems/differentdistances) | Python | 1.6 |
 | [Dyslectionary ](https://open.kattis.com/problems/dyslectionary) | Python | 3.6 |
 | [Encoded Message ](https://open.kattis.com/problems/encodedmessage) | Python | 1.4 |
 | [Estimating the Area of a Circle ](https://open.kattis.com/problems/estimatingtheareaofacircle) | Python | 1.6 |
 | [Euler's Number ](https://open.kattis.com/problems/eulersnumber) | Python | 1.8 |
+| [Faktor ](https://open.kattis.com/problems/faktor) | Python | 1.3 |
+| [Filip ](https://open.kattis.com/problems/filip) | Python | 1.3 |
+| [FizzBuzz ](https://open.kattis.com/problems/fizzbuzz) | C++ | 1.3 |
 | [Flow Layout ](https://open.kattis.com/problems/flowlayout) | Python | 2.1 |
+| [Grass Seed Inc. ](https://open.kattis.com/problems/grassseed) | Python | 1.3 |
 | [Hanging Out on the Terrace ](https://open.kattis.com/problems/hangingout) | Python | 1.3 |
 | [Harshad Numbers ](https://open.kattis.com/problems/harshadnumbers) | Python | 1.4 |
 | [Heart Rate ](https://open.kattis.com/problems/heartrate) | Python | 1.3 |
@@ -50,42 +64,57 @@
 | [Help a PhD candidate out! ](https://open.kattis.com/problems/helpaphd) | Python | 1.5 |
 | [Hissing Microphone ](https://open.kattis.com/problems/hissingmicrophone) | Python | 1.2 |
 | [Hot Hike ](https://open.kattis.com/problems/hothike) | Python | 1.4 |
+| [I've Been Everywhere, Man ](https://open.kattis.com/problems/everywhere) | Python | 1.3 |
 | [ICPC Awards ](https://open.kattis.com/problems/icpcawards) | Python | 1.4 |
 | [IsItHalloween.com ](https://open.kattis.com/problems/isithalloween) | Python | 1.3 |
 | [Judging Moose ](https://open.kattis.com/problems/judgingmoose) | Python | 1.4 |
+| [Just a Minute ](https://open.kattis.com/problems/justaminute) | C++ | 1.6 |
 | [Kemija ](https://open.kattis.com/problems/kemija08) | Python | 1.4 |
 | [Kornislav ](https://open.kattis.com/problems/kornislav) | Python | 1.4 |
+| [Ladder ](https://open.kattis.com/problems/ladder) | C++ | 1.4 |
 | [Last Factorial Digit ](https://open.kattis.com/problems/lastfactorialdigit) | Python | 1.3 |
 | [License to Launch ](https://open.kattis.com/problems/licensetolaunch) | Python | 1.4 |
+| [Mixed Fractions ](https://open.kattis.com/problems/mixedfractions) | Haskell | 1.5 |
+| [Modulo ](https://open.kattis.com/problems/modulo) | Haskell | 1.5 |
 | [Nasty Hacks ](https://open.kattis.com/problems/nastyhacks) | Python | 1.3 |
 | [No Duplicates ](https://open.kattis.com/problems/nodup) | Python | 1.4 |
 | [Number Fun ](https://open.kattis.com/problems/numberfun) | Python | 1.5 |
 | [Odd Man Out ](https://open.kattis.com/problems/oddmanout) | Python | 1.4 |
+| [Oddities ](https://open.kattis.com/problems/oddities) | C++ | 1.3 |
 | [One Chicken Per Person! ](https://open.kattis.com/problems/onechicken) | Python | 1.5 |
 | [Parking ](https://open.kattis.com/problems/parking2) | Python | 1.5 |
 | [Patuljci ](https://open.kattis.com/problems/patuljci) | Python | 1.7 |
+| [Pet ](https://open.kattis.com/problems/pet) | C++ | 1.3 |
 | [Piece of Cake! ](https://open.kattis.com/problems/pieceofcake2) | Python | 1.4 |
 | [Pizza Crust ](https://open.kattis.com/problems/pizza2) | Python | 1.6 |
 | [Planina ](https://open.kattis.com/problems/planina) | Python | 1.3 |
 | [Poker Hand ](https://open.kattis.com/problems/pokerhand) | Python | 1.4 |
+| [Pot ](https://open.kattis.com/problems/pot) | Java | 1.3 |
 | [Provinces and Gold ](https://open.kattis.com/problems/provincesandgold) | Python | 1.4 |
 | [Prva ](https://open.kattis.com/problems/prva) | Python | 1.6 |
 | [Ptice ](https://open.kattis.com/problems/ptice) | Python | 1.4 |
 | [Quadrant Selection ](https://open.kattis.com/problems/quadrant) | Python | 1.3 |
 | [Quality-Adjusted Life-Year ](https://open.kattis.com/problems/qaly) | Python | 1.3 |
 | [Quick Estimates ](https://open.kattis.com/problems/quickestimate) | Python | 1.5 |
+| [R2 ](https://open.kattis.com/problems/r2) | Python | 1.3 |
 | [Racing Around the Alphabet ](https://open.kattis.com/problems/racingalphabet) | Python | 1.5 |
 | [Railroad ](https://open.kattis.com/problems/railroad2) | Python | 1.4 |
 | [Relocation ](https://open.kattis.com/problems/relocation) | Python | 1.5 |
 | [Reverse Rot ](https://open.kattis.com/problems/reverserot) | Python | 1.5 |
+| [Reversed Binary Numbers ](https://open.kattis.com/problems/reversebinary) | C++ | 1.5 |
 | [Roaming Romans ](https://open.kattis.com/problems/romans) | Python | 1.4 |
 | [Robot Protection ](https://open.kattis.com/problems/robotprotection) | Python | 2.5 |
 | [Run-Length Encoding, Run! ](https://open.kattis.com/problems/runlengthencodingrun) | Python | 1.6 |
 | [Seven Wonders ](https://open.kattis.com/problems/sevenwonders) | Python | 1.4 |
+| [Sibice ](https://open.kattis.com/problems/sibice) | Python | 1.3 |
+| [Simon Says ](https://open.kattis.com/problems/simonsays) | C++ | 1.6 |
 | [Skener ](https://open.kattis.com/problems/skener) | Python | 1.5 |
 | [Skocimis ](https://open.kattis.com/problems/skocimis) | Python | 1.6 |
 | [Soda Slurper ](https://open.kattis.com/problems/sodaslurper) | Python | 1.6 |
 | [Sok ](https://open.kattis.com/problems/sok) | Python | 1.7 |
+| [Solving for Carrots ](https://open.kattis.com/problems/carrots) | Haskell | 1.3 |
+| [Spavanac ](https://open.kattis.com/problems/spavanac) | Java | 1.4 |
+| [Speed Limit ](https://open.kattis.com/problems/speedlimit) | Java | 1.3 |
 | [Stacking Cups ](https://open.kattis.com/problems/cups) | Python | 1.5 |
 | [Stand on Zanzibar ](https://open.kattis.com/problems/zanzibar) | Python | 1.4 |
 | [Sticky Situation ](https://open.kattis.com/problems/stickysituation) | Python | 3.1 |
@@ -99,6 +128,7 @@
 | [The Easiest Problem Is This One ](https://open.kattis.com/problems/easiest) | Python | 1.5 |
 | [This Ain't Your Grandpa's Checkerboard ](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | Python | 1.5 |
 | [Tri ](https://open.kattis.com/problems/tri) | Python | 1.5 |
+| [Trik ](https://open.kattis.com/problems/trik) | Haskell | 1.4 |
 | [Volim ](https://open.kattis.com/problems/volim) | Python | 1.6 |
 | [WERTYU ](https://open.kattis.com/problems/wertyu) | Python | 2.9 |
 | [Welcome to Code Jam (Easy) ](https://open.kattis.com/problems/welcomeeasy) | Python | 2.1 |
@@ -112,6 +142,7 @@
 | [Boat Parts ](https://open.kattis.com/problems/boatparts) | Python | 1.5 |
 | [Riječi ](https://open.kattis.com/problems/rijeci) | Python | 1.5 |
 | [Some Sum ](https://open.kattis.com/problems/somesum) | Python | 1.5 |
+| [Quick Brown Fox ](https://open.kattis.com/problems/quickbrownfox) | C++ | 1.6 |
 | [Synchronizing Lists ](https://open.kattis.com/problems/synchronizinglists) | Python | 1.6 |
 | [Server ](https://open.kattis.com/problems/server) | Python | 1.8 |
 | [FBI Universal Control Numbers ](https://open.kattis.com/problems/fbiuniversal) | Python | 2.1 |

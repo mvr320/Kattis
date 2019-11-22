@@ -3,10 +3,11 @@
 
 [&copy;](https://github.com/mvr320/Kattis/blob/master/license.txt) MCJ Vasseur
 ## Summary
-#### Problems solved: 84 - [Total: 136.9, Average: 1.62]
-###### Solved in Python: 82 (97.62%) - [Total: 133.4, Average: 1.63]
-###### Solved in Java: 1 (1.19%) - [Total: 1.3, Average: 1.30]
-###### Solved in Haskell: 1 (1.19%) - [Total: 1.2, Average: 1.20]
+#### Problems solved: 86 - [Total: 139.9, Average: 1.62]
+###### Solved in Python: 83 (96.51%) - [Total: 134.9, Average: 1.63]
+###### Solved in Java: 1 (1.16%) - [Total: 1.3, Average: 1.30]
+###### Solved in Haskell: 1 (1.16%) - [Total: 1.2, Average: 1.20]
+###### Solved in C++: 1 (1.16%) - [Total: 1.5, Average: 1.50]
 #### Top 3 highest difficulty solved
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
@@ -19,6 +20,7 @@
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
 | [ACM Contest Scoring ](https://open.kattis.com/problems/acm) | Python | 1.6 |
+| [Aaah! ](https://open.kattis.com/problems/aaah) | C++ | 1.5 |
 | [Alphabet Spam ](https://open.kattis.com/problems/alphabetspam) | Python | 1.3 |
 | [Apaxiaaaaaaaaaaaans! ](https://open.kattis.com/problems/apaxiaaans) | Python | 1.4 |
 | [Autori ](https://open.kattis.com/problems/autori) | Python | 1.2 |
@@ -96,6 +98,7 @@
 | [The Amazing Human Cannonball ](https://open.kattis.com/problems/humancannonball2) | Python | 1.4 |
 | [The Easiest Problem Is This One ](https://open.kattis.com/problems/easiest) | Python | 1.5 |
 | [This Ain't Your Grandpa's Checkerboard ](https://open.kattis.com/problems/thisaintyourgrandpascheckerboard) | Python | 1.5 |
+| [Tri ](https://open.kattis.com/problems/tri) | Python | 1.5 |
 | [Volim ](https://open.kattis.com/problems/volim) | Python | 1.6 |
 | [WERTYU ](https://open.kattis.com/problems/wertyu) | Python | 2.9 |
 | [Welcome to Code Jam (Easy) ](https://open.kattis.com/problems/welcomeeasy) | Python | 2.1 |
@@ -106,7 +109,9 @@
 #### Unsolved Problems:
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
+| [Boat Parts ](https://open.kattis.com/problems/boatparts) | Python | 1.5 |
 | [Riječi ](https://open.kattis.com/problems/rijeci) | Python | 1.5 |
+| [Some Sum ](https://open.kattis.com/problems/somesum) | Python | 1.5 |
 | [Synchronizing Lists ](https://open.kattis.com/problems/synchronizinglists) | Python | 1.6 |
 | [Server ](https://open.kattis.com/problems/server) | Python | 1.8 |
 | [FBI Universal Control Numbers ](https://open.kattis.com/problems/fbiuniversal) | Python | 2.1 |

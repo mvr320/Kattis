@@ -1,8 +1,9 @@
 ########################################################################
 ## File name: generate_readme.py                                      ##
 ## Author: Rick van Rheenen                                           ##
+## Maintaner: Michael Vasseur                                         ##
 ## Date created: 2016-04-14                                           ##
-## Date last modified: 2016-11-10                                     ##
+## Date last modified: 2019-11-22                                     ##
 ## Description: README.MD generator for OpenKattis github repository  ##
 ########################################################################
 ##

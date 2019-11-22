@@ -55,7 +55,7 @@ def make_readme(problems):
     print("#### Problems solved: %d - [Total: %.1f, Average: %.2f]" % (\
         solved_amount, \
         1 + solved_problems.get_total_score(), \
-        solved_problems.get_total_score() / solved_problems.count() \
+        solved_problems.get_total_score() / ( solved_amount + 0.001 ) \
     ))
 
     # Averages per language

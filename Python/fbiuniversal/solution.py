@@ -12,6 +12,7 @@ for line in data[1:]:
     inp = inp.strip('\n')
     multi = [2,4,5,7,8,10,11,13]
     summer = 0
+    digit = 0
     for i in range(8):
         char = list(inp)[i]
         val = 0
@@ -20,6 +21,7 @@ for line in data[1:]:
         else:
             val = int(char)
         summer += multi[i]*val
+        digit += 27**(7-i)*val
     check = 0
     char = list(inp)[8]
     val = 0
@@ -28,4 +30,7 @@ for line in data[1:]:
     else:
         val = int(char)
     total = summer%27
-    print(ident, total, val)
+    if total==val:
+        print("{} {}".format(ident, digit))
+    else:
+        print("{} {}".format(ident, "Invalid"))

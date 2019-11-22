@@ -1,0 +1,15 @@
+verwerk [] = putStr ""
+verwerk ("0":"0":rest) = putStr ""
+verwerk (t:n:arr) = do
+	let tt = read t :: Int
+	let nn = read n :: Int
+	putStr $ show ( (quot) tt nn )
+	putStr " "
+	putStr $ show ( (mod) tt nn )
+	putStr " / "
+	putStrLn n
+	verwerk(arr)
+	
+main = do  
+	test <- getContents
+	verwerk ( words test )

@@ -1,0 +1,1 @@
+import sys; print(sum([int(x)*-1 for x in sys.stdin.readlines()[1].split() if int(x)<0 ]))

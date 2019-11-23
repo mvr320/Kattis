@@ -3,11 +3,11 @@
 
 [&copy;](https://github.com/mvr320/Kattis/blob/master/license.txt) MCJ Vasseur
 ## Summary
-#### Problems solved: 121 - [Total: 194.0, Average: 1.60]
-###### Solved in Python: 97 (80.17%) - [Total: 156.6, Average: 1.61]
-###### Solved in Java: 10 (8.26%) - [Total: 16.3, Average: 1.63]
-###### Solved in C++: 9 (7.44%) - [Total: 13.2, Average: 1.47]
-###### Solved in Haskell: 5 (4.13%) - [Total: 6.9, Average: 1.38]
+#### Problems solved: 124 - [Total: 198.5, Average: 1.59]
+###### Solved in Python: 100 (80.65%) - [Total: 161.1, Average: 1.61]
+###### Solved in Java: 10 (8.06%) - [Total: 16.3, Average: 1.63]
+###### Solved in C++: 9 (7.26%) - [Total: 13.2, Average: 1.47]
+###### Solved in Haskell: 5 (4.03%) - [Total: 6.9, Average: 1.38]
 #### Top 3 highest difficulty solved
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
@@ -59,7 +59,9 @@
 | [Filip ](https://open.kattis.com/problems/filip) | Python | 1.3 |
 | [FizzBuzz ](https://open.kattis.com/problems/fizzbuzz) | C++ | 1.3 |
 | [Flow Layout ](https://open.kattis.com/problems/flowlayout) | Python | 2.1 |
+| [Free Food ](https://open.kattis.com/problems/freefood) | Python | 1.5 |
 | [Friday the 13th ](https://open.kattis.com/problems/friday) | Python | 1.9 |
+| [Goat Rope ](https://open.kattis.com/problems/goatrope) | Python | 1.5 |
 | [Grass Seed Inc. ](https://open.kattis.com/problems/grassseed) | Python | 1.3 |
 | [Hanging Out on the Terrace ](https://open.kattis.com/problems/hangingout) | Python | 1.3 |
 | [Harshad Numbers ](https://open.kattis.com/problems/harshadnumbers) | Python | 1.4 |
@@ -67,6 +69,7 @@
 | [Hello World! ](https://open.kattis.com/problems/hello) | Haskell | 1.2 |
 | [Help a PhD candidate out! ](https://open.kattis.com/problems/helpaphd) | Python | 1.5 |
 | [Hissing Microphone ](https://open.kattis.com/problems/hissingmicrophone) | Python | 1.3 |
+| [Honour Thy (Apaxian) Parent ](https://open.kattis.com/problems/apaxianparent) | Python | 1.5 |
 | [Hot Hike ](https://open.kattis.com/problems/hothike) | Python | 1.4 |
 | [I've Been Everywhere, Man ](https://open.kattis.com/problems/everywhere) | Python | 1.3 |
 | [ICPC Awards ](https://open.kattis.com/problems/icpcawards) | Python | 1.4 |
@@ -145,6 +148,8 @@
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
 | [Eeny Meeny ](https://open.kattis.com/problems/eenymeeny) | Python | 1.5 |
+| [Herman ](https://open.kattis.com/problems/herman) | Go | 1.5 |
+| [Job Expenses ](https://open.kattis.com/problems/jobexpenses) | Python | 1.5 |
 | [Riječi ](https://open.kattis.com/problems/rijeci) | Python | 1.5 |
 | [Quick Brown Fox ](https://open.kattis.com/problems/quickbrownfox) | C++ | 1.6 |
 | [Synchronizing Lists ](https://open.kattis.com/problems/synchronizinglists) | Python | 1.6 |

@@ -3,12 +3,12 @@
 
 [&copy;](https://github.com/mvr320/Kattis/blob/master/license.txt) MCJ Vasseur
 ## Summary
-#### Problems solved: 126 - [Total: 201.5, Average: 1.59]
-###### Solved in Python: 101 (80.16%) - [Total: 162.6, Average: 1.61]
-###### Solved in Java: 10 (7.94%) - [Total: 16.3, Average: 1.63]
-###### Solved in C++: 9 (7.14%) - [Total: 13.2, Average: 1.47]
-###### Solved in Haskell: 5 (3.97%) - [Total: 6.9, Average: 1.38]
-###### Solved in Go: 1 (0.79%) - [Total: 1.5, Average: 1.50]
+#### Problems solved: 127 - [Total: 203.0, Average: 1.59]
+###### Solved in Python: 101 (79.53%) - [Total: 162.6, Average: 1.61]
+###### Solved in Java: 10 (7.87%) - [Total: 16.3, Average: 1.63]
+###### Solved in C++: 9 (7.09%) - [Total: 13.2, Average: 1.47]
+###### Solved in Haskell: 5 (3.94%) - [Total: 6.9, Average: 1.38]
+###### Solved in Go: 2 (1.57%) - [Total: 3.0, Average: 1.50]
 #### Top 3 highest difficulty solved
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
@@ -84,6 +84,7 @@
 | [Ladder ](https://open.kattis.com/problems/ladder) | C++ | 1.4 |
 | [Last Factorial Digit ](https://open.kattis.com/problems/lastfactorialdigit) | Python | 1.3 |
 | [License to Launch ](https://open.kattis.com/problems/licensetolaunch) | Python | 1.4 |
+| [Line Them Up ](https://open.kattis.com/problems/lineup) | Go | 1.5 |
 | [Mixed Fractions ](https://open.kattis.com/problems/mixedfractions) | Haskell | 1.5 |
 | [Modulo ](https://open.kattis.com/problems/modulo) | Haskell | 1.5 |
 | [Nasty Hacks ](https://open.kattis.com/problems/nastyhacks) | Python | 1.3 |

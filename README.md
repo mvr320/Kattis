@@ -3,11 +3,12 @@
 
 [&copy;](https://github.com/mvr320/Kattis/blob/master/license.txt) MCJ Vasseur
 ## Summary
-#### Problems solved: 124 - [Total: 198.5, Average: 1.59]
-###### Solved in Python: 100 (80.65%) - [Total: 161.1, Average: 1.61]
-###### Solved in Java: 10 (8.06%) - [Total: 16.3, Average: 1.63]
-###### Solved in C++: 9 (7.26%) - [Total: 13.2, Average: 1.47]
-###### Solved in Haskell: 5 (4.03%) - [Total: 6.9, Average: 1.38]
+#### Problems solved: 126 - [Total: 201.5, Average: 1.59]
+###### Solved in Python: 101 (80.16%) - [Total: 162.6, Average: 1.61]
+###### Solved in Java: 10 (7.94%) - [Total: 16.3, Average: 1.63]
+###### Solved in C++: 9 (7.14%) - [Total: 13.2, Average: 1.47]
+###### Solved in Haskell: 5 (3.97%) - [Total: 6.9, Average: 1.38]
+###### Solved in Go: 1 (0.79%) - [Total: 1.5, Average: 1.50]
 #### Top 3 highest difficulty solved
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
@@ -68,12 +69,14 @@
 | [Heart Rate ](https://open.kattis.com/problems/heartrate) | Python | 1.3 |
 | [Hello World! ](https://open.kattis.com/problems/hello) | Haskell | 1.2 |
 | [Help a PhD candidate out! ](https://open.kattis.com/problems/helpaphd) | Python | 1.5 |
+| [Herman ](https://open.kattis.com/problems/herman) | Go | 1.5 |
 | [Hissing Microphone ](https://open.kattis.com/problems/hissingmicrophone) | Python | 1.3 |
 | [Honour Thy (Apaxian) Parent ](https://open.kattis.com/problems/apaxianparent) | Python | 1.5 |
 | [Hot Hike ](https://open.kattis.com/problems/hothike) | Python | 1.4 |
 | [I've Been Everywhere, Man ](https://open.kattis.com/problems/everywhere) | Python | 1.3 |
 | [ICPC Awards ](https://open.kattis.com/problems/icpcawards) | Python | 1.4 |
 | [IsItHalloween.com ](https://open.kattis.com/problems/isithalloween) | Python | 1.3 |
+| [Job Expenses ](https://open.kattis.com/problems/jobexpenses) | Python | 1.5 |
 | [Judging Moose ](https://open.kattis.com/problems/judgingmoose) | Python | 1.4 |
 | [Just a Minute ](https://open.kattis.com/problems/justaminute) | C++ | 1.6 |
 | [Kemija ](https://open.kattis.com/problems/kemija08) | Python | 1.4 |
@@ -148,8 +151,6 @@
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
 | [Eeny Meeny ](https://open.kattis.com/problems/eenymeeny) | Python | 1.5 |
-| [Herman ](https://open.kattis.com/problems/herman) | Go | 1.5 |
-| [Job Expenses ](https://open.kattis.com/problems/jobexpenses) | Python | 1.5 |
 | [Riječi ](https://open.kattis.com/problems/rijeci) | Python | 1.5 |
 | [Quick Brown Fox ](https://open.kattis.com/problems/quickbrownfox) | C++ | 1.6 |
 | [Synchronizing Lists ](https://open.kattis.com/problems/synchronizinglists) | Python | 1.6 |

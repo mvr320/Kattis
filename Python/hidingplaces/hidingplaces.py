@@ -1,32 +1,38 @@
 import sys
-data = sys.stdin.readlines()
-total_k = 0
-row_done = 0
-col_done = 0
-storage = []
-for i in range(5):
-    storage.append([])
-    for j in range(5):
-        storage[i].append(0)
-for line in data:
-    for pl in list(line.strip('\n')):
-        if pl=='k':
-            total_k += 1
-            mutation = [(-2,-1),(-2,1),(2,-1),(2,1),(-1,-2),(-1,2),(1,-2),(1,2)]
-            #print(storage)
-            for mut in mutation:
-                rd,cd = mut
-                rs = row_done-rd
-                cs = col_done-cd 
-                if rs>=0 and cs>=0 and rs<5 and cs<5:
-                    #print(storage[rs][cs])
-                    if storage[rs][cs]==1:
-                        print('invalid')
-                        exit() 
-            #print(row_done, col_done)
-            storage[row_done][col_done]=1
-        col_done += 1
-    row_done += 1
-    col_done = 0
-#print(storage)
-print('valid' if total_k==9 else 'invalid')
+data = sys.stdin.readlines()[1:]
+
+for place in data:
+    storage = []
+    que = []
+    done = set()
+    highest = 1
+    for i in range(8):
+        new_row = []
+        for j in range(8):
+            new_row.append(0)
+        storage.append(new_row)
+    col = ord(list(place)[0])-97
+    row = int(list(place)[1])-1
+    que.append( (col,row,0) )
+    highest_val = 0
+    highest_lst = []
+    while len(que)!=0:
+        col,row,it = que[0]
+        if col>=0 and row>=0 and col<8 and row<8 and (col,row) not in done:
+            #print(col, row, it)
+            if highest_val<it:
+                highest_val=it
+                highest_lst = []
+            if highest_val==it:
+                highest_lst.append( chr(col+97)+str(row+1) )
+            que.append( (col-2, row-1, it+1) )
+            que.append( (col-2, row+1, it+1) )
+            que.append( (col+2, row-1, it+1) )
+            que.append( (col+2, row+1, it+1) )
+            que.append( (col-1, row-2, it+1) )
+            que.append( (col-1, row+2, it+1) )
+            que.append( (col+1, row-2, it+1) )
+            que.append( (col+1, row+2, it+1) )
+            done.add( (col,row) )
+        que = que[1:]
+    print("{} {}".format(highest_val, ' '.join( sorted(sorted(highest_lst, key=lambda x: x[0], reverse=False), key=lambda x: x[1], reverse=True) )))

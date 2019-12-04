@@ -1,7 +1,7 @@
 import sys
-iter = int(sys.stdin.readlines()[0])
+count = int(input())
 start = "A"
-ac = 1
+'''ac = 1
 bc = 0
 for i in range(iter):
     new = ""
@@ -15,3 +15,4 @@ for i in range(iter):
             #ac+=1
     start = new[:]
 print(start.count("A"),start.count("B"))
+'''

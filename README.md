@@ -3,12 +3,12 @@
 
 [&copy;](https://github.com/mvr320/Kattis/blob/master/license.txt) MCJ Vasseur
 ## Summary
-#### Problems solved: 145 - [Total: 234.7, Average: 1.61]
-###### Solved in Python: 114 (78.62%) - [Total: 185.1, Average: 1.62]
-###### Solved in Java: 10 (6.90%) - [Total: 15.9, Average: 1.59]
-###### Solved in C++: 9 (6.21%) - [Total: 13.2, Average: 1.47]
-###### Solved in Go: 7 (4.83%) - [Total: 12.6, Average: 1.80]
-###### Solved in Haskell: 5 (3.45%) - [Total: 6.9, Average: 1.38]
+#### Problems solved: 147 - [Total: 239.0, Average: 1.62]
+###### Solved in Python: 116 (78.91%) - [Total: 189.4, Average: 1.63]
+###### Solved in Java: 10 (6.80%) - [Total: 15.9, Average: 1.59]
+###### Solved in C++: 9 (6.12%) - [Total: 13.2, Average: 1.47]
+###### Solved in Go: 7 (4.76%) - [Total: 12.6, Average: 1.80]
+###### Solved in Haskell: 5 (3.40%) - [Total: 6.9, Average: 1.38]
 #### Top 3 highest difficulty solved
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
@@ -34,6 +34,7 @@
 | [Basic Remains ](https://open.kattis.com/problems/basicremains) | Python | 3.4 |
 | [Basketball One-on-One ](https://open.kattis.com/problems/basketballoneonone) | Python | 1.4 |
 | [Batter Up ](https://open.kattis.com/problems/batterup) | Python | 1.3 |
+| [Beavergnaw ](https://open.kattis.com/problems/beavergnaw) | Python | 1.4 |
 | [Beehives ](https://open.kattis.com/problems/beehives) | Python | 2.1 |
 | [Bela ](https://open.kattis.com/problems/bela) | Python | 1.3 |
 | [Bijele ](https://open.kattis.com/problems/bijele) | Java | 1.2 |
@@ -99,6 +100,7 @@
 | [Nine Knights ](https://open.kattis.com/problems/nineknights) | Python | 1.9 |
 | [No Duplicates ](https://open.kattis.com/problems/nodup) | Python | 1.4 |
 | [Number Fun ](https://open.kattis.com/problems/numberfun) | Python | 1.5 |
+| [Ocean's Anti-11 ](https://open.kattis.com/problems/anti11) | Python | 2.9 |
 | [Odd Man Out ](https://open.kattis.com/problems/oddmanout) | Python | 1.4 |
 | [Oddities ](https://open.kattis.com/problems/oddities) | C++ | 1.3 |
 | [One Chicken Per Person! ](https://open.kattis.com/problems/onechicken) | Python | 1.5 |
@@ -169,7 +171,6 @@
 #### Unsolved Problems:
 | Problem | Language | Difficulty |
 | :--- | :---: | :---: |
-| [Beavergnaw ](https://open.kattis.com/problems/beavergnaw) | Python | 1.4 |
 | [A Rational Sequence 2 ](https://open.kattis.com/problems/rationalsequence2) | Python | 1.5 |
 | [Racing Around the Alphabet ](https://open.kattis.com/problems/racingalphabet) | Python | 1.5 |
 | [Eeny Meeny ](https://open.kattis.com/problems/eenymeeny) | Python | 1.6 |
@@ -178,7 +179,6 @@
 | [Weak Vertices ](https://open.kattis.com/problems/weakvertices) | Python | 1.6 |
 | [Server ](https://open.kattis.com/problems/server) | Python | 1.8 |
 | [FBI Universal Control Numbers ](https://open.kattis.com/problems/fbiuniversal) | Python | 2.1 |
-| [Ocean's Anti-11 ](https://open.kattis.com/problems/anti11) | Python | 2.9 |
 | [CD ](https://open.kattis.com/problems/cd) | Python | 4.8 |
 | [Linije ](https://open.kattis.com/problems/linije) | Java | 7.1 |
 
